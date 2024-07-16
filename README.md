@@ -12,5 +12,5 @@ A simple vulnerability Scanner
 
 
 ## Usage : ##
-  #### Clone the git repository ####
+  #### Usage ####
   `cd vulnscanner && python main.py`

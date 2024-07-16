@@ -1,4 +1,4 @@
 # vulnscanner
 A simple vulnerability Scanner
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/prashik287/vulnscanner/blob/main/Screenshot%20from%202024-07-16%2011-45-06.png)

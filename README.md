@@ -6,4 +6,4 @@ A simple vulnerability Scanner
 
 ## Installation ##
   #### Clone the git repository ####
-  `git clone https://github.com/prashik287/vulnscanner/blob/main/Screenshot%20from%202024-07-16%2011-45-06.png`
+  `git clone https://github.com/prashik287/vulnscanner`

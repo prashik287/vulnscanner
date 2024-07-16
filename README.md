@@ -5,3 +5,4 @@ A simple vulnerability Scanner
 
 
 ## Installation ##
+  ### Clone the git repository ###
